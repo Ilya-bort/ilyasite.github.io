@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(172, 156, 136);
+    padding: 50px;
+}
+.container {
+    display: flex;
+    
+}
+.main {
+    background-color: rgb(216, 154, 74);
+    color: rgb(109, 74, 37);
+    padding: 40px;
+    min-height:750px;
+    border-radius: 20px;
+}
+    .main__body {
+        background-color: rgb(187, 141, 88);
+        margin-right:40px;
+        padding:30px;
+        border-radius: 20px;
+    }
+
+    .main__title {
+        font-size: 40px;
+        padding-bottom:20px;
+    }
+
+    .main__text {
+        font-size: 20px;
+    }
+
+
+.container2 {
+    background-color: rgb(197, 138, 65);
+    padding:20px;
+    margin-top:30px;
+}
+.list {
+    
+}
+li{
+    margin-bottom: 10px;
+}

@@ -19,6 +19,9 @@ body {
         padding:30px;
         border-radius: 20px;
     }
+.main__body:hover {
+    background-color:pink;
+}
 
     .main__title {
         font-size: 40px;
